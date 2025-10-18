@@ -20,3 +20,6 @@ let contactsList = [
     ["Bob Johnson", "bob@example.com", "555-5678"]
 ];
 console.log("Contacts List:", contactsList);
+
+let animals = ["dog", "cat", "elephant", "giraffe"];
+console.log(animals[4]);
